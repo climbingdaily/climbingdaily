@@ -6,7 +6,6 @@
 
 - I am a Ph.D. student (since 2019) at the spAtial Sensing and Computing Lab ([ASC](https://asc.xmu.edu.cn/)) at [Xiamen University](https://en.xmu.edu.cn/). My goal is to develop robust methods to perceive and understand human behavior in complex environments.
 - Research interests: LiDAR mapping, Scene-aware 4D human motion capturing, Human-scene interaction modeling
-- I'm starting a visit at the [Real Virtual Humans](https://virtualhumans.mpi-inf.mpg.de/) group at the [University of Tübingen](https://uni-tuebingen.de/) hosted by Prof. [Gerard Pons-Moll](https://virtualhumans.mpi-inf.mpg.de/people/pons-moll.html).
 - Misc: I am a huge fan of outdoor sports, particularly rock climbing, hiking, and mountaineering. ([Outdoor CV](https://climbingdaily.github.io/outdoor/))
 
 I'm always looking for adventure partners to explore new trails on science and mountain. Welcome for any discussions or collaborations.
